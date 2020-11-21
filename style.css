@@ -328,12 +328,6 @@ img {
 
     footer {
         background: linear-gradient(180deg, rgba(191,191,191,1) 0%, rgba(245,245,245,1) 10%);
-    }
-
-    header hr {
-        border-top: solid 0.15rem white;
-    }
-
-   
+    }   
 
 }
